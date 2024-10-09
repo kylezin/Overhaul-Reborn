@@ -1,4 +1,4 @@
-# Overhaul Reborn (Beta)
+# Overhaul Reborn (Beta 0.01) 
 
 **Overhaul Reborn** é um mod em desenvolvimento para **GTA San Andreas** que remasteriza todos os objetos, construções, props e mais.
  O foco é manter a originalidade dos elementos do jogo, enquanto aprimoramos a qualidade de modelos, texturas e iluminação, incluindo melhorias como shadowmesh, vertex paint, collision, UV.
