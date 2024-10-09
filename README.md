@@ -30,3 +30,6 @@ Baixe a versão beta do Overhaul Reborn através do [Google Drive](https://drive
 
 1. Baixe o mod usando o link acima.
 2. Extraia os arquivos para a pasta `modloader` no diretório do GTA San Andreas.
+
+![image](https://github.com/user-attachments/assets/7209add2-b0ee-46c9-a219-43ded3dd3a0f)
+
